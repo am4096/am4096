@@ -1,4 +1,7 @@
-## Hi there 👋
+### All processes can be coded! ###👋
+
+## Versatility as a Programmer ##
+#### Simulating complex phenomena or performing sophisticated analyses - I enjoy these challenges! ####
 
 <!--
 **am4096/am4096** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
